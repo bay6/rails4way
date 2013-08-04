@@ -1,0 +1,7 @@
+gem 'activemerchant', '1.29.3'
+gem 'rails', '3.2.13'
+gem 'kaminari'
+gem 'nokogiri'
+group :development do
+  gem 'pry-rails'
+end
